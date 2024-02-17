@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=58FF00&repeat=false&random=false&width=600&height=62&lines=Initializing...;User+authenticated+as+%22Shreyas+Malhotra%22...;%22Cr4ck3nZ3r0%22+logged+in...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=500&color=58FF00&repeat=false&random=false&width=600&height=62&lines=Initializing...;User+authenticated+as+%22Shreyas+Malhotra%22...;%22Cr4ck3nZ3r0%22+logged+in...)](https://git.io/typing-svg)
 
 ### 👾 About Me:
 🔭 I’m currently learning - Computer Networking , Programming, Penetration Testing and Information Security Management.<br>🤝 I’m looking to collaborate on - Security-Oriented Beginner Level Development Projects, CTFs, and Writeups/Articles.<br>💬 Ask me about - Penetration Testing, Privacy, Fixing Computers, Linux, Retro Gaming and Emulation.<br>⚡ Fun fact - Linux was almost named Freax at one point!
