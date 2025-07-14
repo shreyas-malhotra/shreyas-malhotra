@@ -45,7 +45,6 @@ I'm actively seeking opportunities in red teaming, offensive security consulting
 
 - [LinkedIn](https://linkedin.com/in/shreyas-malhotra)
 - [BlueSky](https://bsky.app/profile/shreyas-malhotra.bsky.social)
-- [Mastodon](https://infosec.exchange/@shreyas_malhotra)
 
 Looking forward to collaborating on exciting challenges and securing cyberspace!
 
